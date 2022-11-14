@@ -34,3 +34,6 @@ Create a New Environment
 Succesfully built the app and deployed the same.
 Link for the Application
 https://bostonhouse-price-prediction.herokuapp.com/
+
+# NOTE
+Check the MASTER branch for notebook,flask app code.
