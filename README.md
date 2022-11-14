@@ -23,6 +23,13 @@ LSTAT – % lower status of the population
 MV – Median value of owner-occupied homes in $1000’s
 # Objective
 The prime objective of this project is to construct a working model which has the capability of predicting the value of houses, make an application of the same and deploy it using HEROKU as CONTAINER.
+# Softwares and Tools Requirements
+GithubAccount
+HerokuAccount
+VSCodeIDe
+GitCLI
+Create a New Environment
+/// conda create -p venv python==3.7 -y ///
 # Result
 Succesfully built the app and deployed the same.
 Link for the Application
