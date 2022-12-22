@@ -1,4 +1,8 @@
 # Boston House Price Prediction
+![house_pricing](https://user-images.githubusercontent.com/42798629/209130132-6503a213-800b-4de3-8e35-4e1f9bd6454c.png)
+
+
+
 Introduction project is based on the boston dataset. The data to be analyzed were collected by Harrison and Rubinfeld in 1978 for the purpose of discovering whether or not clean air influenced the value of houses in Boston. Their results are documented in a paper titled Hedonic prices and the demand for clean air, published in J. Environ. Economics and Management 5, 81-102.
 
 # Overview
